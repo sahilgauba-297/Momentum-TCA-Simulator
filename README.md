@@ -17,3 +17,5 @@ In high-liquidity simulations (NVDA), the momentum-adjusted model achieved:
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Matplotlib, YFinance
 * **Methodology:** Transaction Cost Analysis (TCA), Signal Processing
+
+![TCA Performance Analysis](tca_analysis.png)
